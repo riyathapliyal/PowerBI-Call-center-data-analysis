@@ -24,7 +24,7 @@ The dataset was provided in the form of an excel sheet which contained the follo
 
 ## Overall analysis view:
 
-![Alt text]( Call_centre_dashboard.png)
+![Alt text]( Call_center_dashboard.png)
 
 ## **Dashboard Overview:**
 
